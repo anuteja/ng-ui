@@ -1,0 +1,18 @@
+{
+  "name": "frequence-ui-kit/button",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^8.1.1",
+    "@angular/core": "^8.1.1"
+  },
+  "main": "../bundles/frequence-ui-kit-button.umd.js",
+  "module": "../fesm5/frequence-ui-kit-button.js",
+  "es2015": "../fesm2015/frequence-ui-kit-button.js",
+  "esm5": "../esm5/button/frequence-ui-kit-button.js",
+  "esm2015": "../esm2015/button/frequence-ui-kit-button.js",
+  "fesm5": "../fesm5/frequence-ui-kit-button.js",
+  "fesm2015": "../fesm2015/frequence-ui-kit-button.js",
+  "typings": "frequence-ui-kit-button.d.ts",
+  "metadata": "frequence-ui-kit-button.metadata.json",
+  "sideEffects": false
+}
