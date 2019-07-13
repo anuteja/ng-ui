@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.2.0](https://github.com/anuteja/ng-ui/compare/button@0.1.0...button@0.2.0) (2019-07-13)
+
+
+### Features
+
+* **module:button:** add button element ([be77e05](https://github.com/anuteja/ng-ui/commit/be77e05))
+
+
+
+
+
 # 0.1.0 (2019-07-13)
 
 
