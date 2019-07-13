@@ -1,1 +1,0 @@
-{"version":3,"file":"main.4fd98963d6e7ae282ba4.bundle.js","sources":["webpack:///./projects/button/lib/button.service.ts"],"sourcesContent":["import { Injectable } from '@angular/core';\n\n@Injectable({\n  providedIn: 'root'\n})\nexport class ButtonService {\n\n  constructor() { }\n}\n"],"mappings":"AAKA","sourceRoot":""}

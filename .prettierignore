@@ -8,3 +8,4 @@ publish/
 dist/
 package.json
 **/template/*
+storybook-static/

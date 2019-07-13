@@ -7,12 +7,13 @@
     "build-storybook": "build-storybook  -c .storybook -o dist/docs/storybook",
     "e2e": "ng e2e",
     "generate": "ng build frequence-ui-kit",
-    "lint": "ng lint && npm run lint:styles",
+    "lint": "ng lint",
     "lint:styles": "stylelint \"projects/**/*.less\"",
     "ng": "ng",
     "pack_button": "cd dist/button && npm pack",
     "start": "ng serve",
     "storybook": "start-storybook -p 6006",
+    "format:fix": "pretty-quick --staged",
     "test": "ng test"
   },
   "dependencies": {
@@ -63,6 +64,7 @@
     "karma-jasmine-html-reporter": "^1.4.0",
     "lerna": "^3.15.0",
     "ng-packagr": "^5.1.0",
+    "npm-run-all": "^4.1.5",
     "prettier": "^1.18.2",
     "pretty-quick": "^1.11.1",
     "protractor": "~5.4.0",
