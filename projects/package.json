@@ -11,13 +11,13 @@
     "framework",
     "frontend"
   ],
-  "homepage": "https://frequence.com",
+  "homepage": "https://ng-ui.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/frequence"
+    "url": "https://github.com/anuteja/ng-ui"
   },
   "bugs": {
-    "url": "https://github.com/frequence/frequence-ui-kit/issues"
+    "url": "https://github.com/anuteja/ng-ui/issues"
   },
   "dependencies": {
     "@angular/cdk": "^8.0.0"
