@@ -4,9 +4,7 @@ import { Component, Input, OnInit } from '@angular/core';
   selector: 'ui-button',
   styles: [],
   template: `
-    <button>
-      {{ text }}
-    </button>
+    <button>{{ text }} button</button>
   `
 })
 export class ButtonComponent implements OnInit {
